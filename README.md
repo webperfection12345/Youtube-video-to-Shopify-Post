@@ -1,1 +1,1 @@
-# Youtube-video-to-Shopify-Post
+# Youtube-video-to-Shopify-Blog
